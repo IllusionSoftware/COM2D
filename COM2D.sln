@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.9
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{002A2DE9-8BB6-484D-9802-7E4AD4084715}") = "COM2D", "COM2D\COM2D.visualdproj", "{E6234A50-8350-4D45-B168-82CD24C0AD3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug DMD|x64 = Debug DMD|x64
+		Debug DMD|x86 = Debug DMD|x86
+		Debug LDC|x64 = Debug LDC|x64
+		Debug LDC|x86 = Debug LDC|x86
+		Release DMD|x64 = Release DMD|x64
+		Release DMD|x86 = Release DMD|x86
+		Release LDC|x64 = Release LDC|x64
+		Release LDC|x86 = Release LDC|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6234A50-8350-4D45-B168-82CD24C0AD3B}.Debug DMD|x64.ActiveCfg = Debug DMD|x64
+		{E6234A50-8350-4D45-B168-82CD24C0AD3B}.Debug DMD|x64.Build.0 = Debug DMD|x64
+		{E6234A50-8350-4D45-B168-82CD24C0AD3B}.Debug DMD|x86.ActiveCfg = Debug DMD|Win32
+		{E6234A50-8350-4D45-B168-82CD24C0AD3B}.Debug DMD|x86.Build.0 = Debug DMD|Win32
+		{E6234A50-8350-4D45-B168-82CD24C0AD3B}.Debug LDC|x64.ActiveCfg = Debug LDC|x64
+		{E6234A50-8350-4D45-B168-82CD24C0AD3B}.Debug LDC|x64.Build.0 = Debug LDC|x64
+		{E6234A50-8350-4D45-B168-82CD24C0AD3B}.Debug LDC|x86.ActiveCfg = Debug LDC|Win32
+		{E6234A50-8350-4D45-B168-82CD24C0AD3B}.Debug LDC|x86.Build.0 = Debug LDC|Win32
+		{E6234A50-8350-4D45-B168-82CD24C0AD3B}.Release DMD|x64.ActiveCfg = Release DMD|x64
+		{E6234A50-8350-4D45-B168-82CD24C0AD3B}.Release DMD|x64.Build.0 = Release DMD|x64
+		{E6234A50-8350-4D45-B168-82CD24C0AD3B}.Release DMD|x86.ActiveCfg = Release DMD|Win32
+		{E6234A50-8350-4D45-B168-82CD24C0AD3B}.Release DMD|x86.Build.0 = Release DMD|Win32
+		{E6234A50-8350-4D45-B168-82CD24C0AD3B}.Release LDC|x64.ActiveCfg = Release LDC|x64
+		{E6234A50-8350-4D45-B168-82CD24C0AD3B}.Release LDC|x64.Build.0 = Release LDC|x64
+		{E6234A50-8350-4D45-B168-82CD24C0AD3B}.Release LDC|x86.ActiveCfg = Release LDC|Win32
+		{E6234A50-8350-4D45-B168-82CD24C0AD3B}.Release LDC|x86.Build.0 = Release LDC|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
